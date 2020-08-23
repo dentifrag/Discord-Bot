@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntelliJ Projects:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntelliJ_Projects_jar</output-path>
+    <root id="archive" name="IntelliJ Projects.jar">
+      <element id="module-output" name="IntelliJ Projects" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Random Crap/JDA-4.2.0_196-withDependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
